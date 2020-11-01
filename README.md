@@ -11,7 +11,7 @@
 
 ### Check it out here
 
-[searchTheUniverse](https://mtarquini19.github.io/Team-7/)
+
 
 ![applicationDemo](assets/demo.gif)
 
@@ -48,11 +48,3 @@
 - Paint
 - Visual Studio Code
 
-#### Home Page
-![homePage](assets/homepage.png)
-
-#### Earth Search Results
-![earthSearch](assets/earthSearch.png)
-
-#### Team 7
-![team7](assets/team7.png)
