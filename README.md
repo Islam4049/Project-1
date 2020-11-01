@@ -27,7 +27,7 @@
  C:\Users\mdisl\OneDrive\Desktop\RUT-SOM-FSF-PT-09-2020-U-C\project-1\Project-1\assets\demo.gif
 
 ***Features:
-.API Astronomy Picture of the Day;
+.API Astronomy Picture of the Day;.
 .Search pictures and videos by categories;
 .Preview the pictures information with a card;
 .Open the picture or video in another page;
@@ -38,12 +38,10 @@
 
 ***Development
 HTML
-CSS
-JavaScript
-Materialize
-Jquery
-Adobe XD
-Paint
-Visual Studio Code
-
-  C:\Users\mdisl\OneDrive\Desktop\RUT-SOM-FSF-PT-09-2020-U-C\project-1\Project-1\assets\earth.png
+.CSS
+.JavaScript
+.Materialize
+.Jquery
+.Adobe XD
+https://github.com/Islam4049/Project-1/blob/main/assets/team7%20(1).png
+  
