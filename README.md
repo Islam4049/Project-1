@@ -55,4 +55,4 @@
 ![earth](assets/earth.png)
 
 #### Team 7
-![team7](assets/team7(1).png)
+![team7](assets/team7 (1).png)
