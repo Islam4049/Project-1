@@ -48,3 +48,11 @@
 - Paint
 - Visual Studio Code
 
+#### Home Page
+![frontPage](assets/frontPage.png)
+
+#### Earth Search Results
+![earth](assets/earth.png)
+
+#### Team 7
+![team7](assets/team7.png)
