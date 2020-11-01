@@ -49,7 +49,7 @@
 - Visual Studio Code
 
 #### Home Page
-![frontPage](assets/frontPage.png)
+![frontPage](assets/front page.png)
 
 #### Earth Search Results
 ![earth](assets/earth.png)
