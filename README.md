@@ -47,12 +47,12 @@
 - Adobe XD
 - Paint
 - Visual Studio Code
-
+-
 #### Home Page
-![frontPage](assets/frontPage.png)
+![homePage](assets/homepage.png)
 
 #### Earth Search Results
-![earth](assets/earth.png)
+![earthSearch](assets/earthSearch.png)
 
 #### Team 7
 ![team7](assets/team7.png)
