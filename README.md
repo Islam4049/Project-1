@@ -54,6 +54,5 @@
 #### Earth Search Results
 ![earthSearch](assets/earthSearch.png)
 
-#### Team 7
+#### team 7
 ![team7](assets/team7.png)
-
